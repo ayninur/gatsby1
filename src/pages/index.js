@@ -19,18 +19,11 @@ const HomeIndex = () => {
         <section id="one">
           <header className="major">
             <h2>
-              Ipsum lorem dolor aliquam ante commodo
-              <br />
-              magna sed accumsan arcu neque.
+              Who am I?
             </h2>
           </header>
           <p>
-            Accumsan orci faucibus id eu lorem semper. Eu ac iaculis ac nunc
-            nisi lorem vulputate lorem neque cubilia ac in adipiscing in curae
-            lobortis tortor primis integer massa adipiscing id nisi accumsan
-            pellentesque commodo blandit enim arcu non at amet id arcu magna.
-            Accumsan orci faucibus id eu lorem semper nunc nisi lorem vulputate
-            lorem neque cubilia.
+            I am a Full-Stack Developer with a passion for solving human problems using a variety of technologies. With a STEM background in Epidemiology, R is where my love for programming languages began. I now specialize in HTML, CSS, Javascript, React, Node.js, Ruby on Rails, and databases like Mongo and PostgreSQL. When I'm not coding, I am working on gaining more cloud computing certifications by diving in to IAAS softwares like AWS and Microsoft Azure!
           </p>
           <ul className="actions">
             <li>
